@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xat:home|Door43 (xat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xat|d43-xat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xat/archive/master.zip|d43-xat.zip]]
+
+**Recent Changes**
+{{changes>ns = xat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xat|Ethnologue data]]
+
